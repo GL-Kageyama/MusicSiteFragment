@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.swift.android.musicsitefragment.Fragment5Activity">
+
+    <TextView
+        android:id="@+id/frag_question5"
+        android:layout_width="248dp"
+        android:layout_height="87dp"
+        android:text="大きい、やっぱり、かたい。イラストレーターが絵に出来なかったのはどれだ？"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</android.support.constraint.ConstraintLayout>
